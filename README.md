@@ -10,7 +10,7 @@
 7. relativamente alle rotte GET creare  le view in una cartella con il nome della tabella della CRUD e con il nome del metodo del resource controller relativo
 
 *Per la navigazione*
-- la rotta home è fuori dalla CRUD (se si s vuole si può stampatre il numero di card presenti)
+- la rotta home è fuori dalla CRUD (se si vuole si può stampare il numero di card presenti)
 - elenco prodotti   (GET index)
 - dettaglio prodotto (GET show)
 - form nuovo prodotto (GET create) (ricordarsi il token @csrf)
